@@ -8,6 +8,6 @@ The backend for the WIT TinkerHub created during Women in Tech Summit at 18-19 N
 - Submitted projects are displayed.
 - Filter through the submitted projects through the tags.
 
-- ![image](output.png)
+![image](output.png)
 
 
